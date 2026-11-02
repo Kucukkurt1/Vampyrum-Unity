@@ -1,0 +1,12 @@
+{
+  "tutarsizliklar": [
+    {
+      "id": "origin_day1_day3",
+      "aciklama": "Gun 1 ve gun 3 farkli koken soyluyor"
+    },
+    {
+      "id": "no_meal_claim",
+      "aciklama": "Yemekhanede goruldu ama yemek yemedigini iddia ediyor"
+    }
+  ]
+}

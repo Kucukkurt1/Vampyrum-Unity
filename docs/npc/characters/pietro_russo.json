@@ -1,0 +1,18 @@
+{
+  "id": 12,
+  "ad": "Pietro",
+  "soyad": "Russo",
+  "yas": 0,
+  "cinsiyet": "Erkek",
+  "koken": "",
+  "meslek": "Gemici",
+  "aciklama": "Uzun bir seferden dönmüş zengin bir gemici. Yüksek ücret ödüyor. Karaya ayak basmayı özlemiş.",
+  "tasarim_notu": "Ülke adı boş.",
+  "model_id": 0,
+  "rol": "misafir",
+  "vampir_atama": "rastgele",
+  "kalis_gunu": { "min": 3, "max": 5 },
+  "ucret_gunluk": { "min": 6, "max": 10 },
+  "maliyet_gunluk": { "min": 2, "max": 3 },
+  "aktif": false
+}

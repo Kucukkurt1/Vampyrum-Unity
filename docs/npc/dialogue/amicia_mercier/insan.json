@@ -1,0 +1,21 @@
+{
+  "karakter_id": 16,
+  "dosya": "amicia_mercier",
+  "tur": "insan",
+  "beats": [
+    {
+      "id": "intro_1",
+      "once": true,
+      "priority": 100,
+      "conditions": { "max_talk_count": 0 },
+      "lines": [
+        { "speaker": "npc", "text": "Merhaba, ben Amicia. Kardeşimle beraber …'den geldik." },
+        { "speaker": "npc", "text": "Bulunduğumuz bölgede salgından binlerce kişi öldü. Neyse ki bizde hastalık yok." },
+        { "speaker": "npc", "text": "Bizi kabul ettiğiniz için teşekkürler." }
+      ]
+    }
+  ],
+  "fallback": {
+    "pool": ["generic_smalltalk_01", "generic_smalltalk_03"]
+  }
+}

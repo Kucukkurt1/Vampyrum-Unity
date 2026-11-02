@@ -1,0 +1,19 @@
+{
+  "replikler": [
+    {
+      "id": "evasive_01",
+      "metin": "Gecen gece... uyuyordum. Kesin uyuyordum.",
+      "tur": "kacamak"
+    },
+    {
+      "id": "evasive_02",
+      "metin": "Bu sorulari neden soruyorsun? Yol yorgunluguydu.",
+      "tur": "gergin"
+    },
+    {
+      "id": "evasive_03",
+      "metin": "Kervansarayiniz guzel ama geceleri ruzgar tuhaf uluyor.",
+      "tur": "sapma"
+    }
+  ]
+}

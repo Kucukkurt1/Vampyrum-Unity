@@ -1,0 +1,21 @@
+{
+  "karakter_id": 12,
+  "dosya": "pietro_russo",
+  "tur": "insan",
+  "beats": [
+    {
+      "id": "intro_1",
+      "once": true,
+      "priority": 100,
+      "conditions": { "max_talk_count": 0 },
+      "lines": [
+        { "speaker": "npc", "text": "Merhaba. Ben ünlü denizci Pietro Russo. Aylardır okyanustaydım. Karaya ayak basmayı özlemişim." },
+        { "speaker": "npc", "text": "Benim için çok yorucu bir sefer oldu. Beni kervanında ağırlamayı kabul ettiğin için teşekkür ederim." },
+        { "speaker": "npc", "text": "Müsaadenle gidip biraz dinlenmeliyim." }
+      ]
+    }
+  ],
+  "fallback": {
+    "pool": ["generic_smalltalk_01", "generic_smalltalk_03"]
+  }
+}

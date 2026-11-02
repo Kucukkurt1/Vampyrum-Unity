@@ -1,0 +1,21 @@
+{
+  "karakter_id": 2,
+  "dosya": "nikolai_vasilev",
+  "tur": "insan",
+  "beats": [
+    {
+      "id": "intro_1",
+      "once": true,
+      "priority": 100,
+      "conditions": { "max_talk_count": 0 },
+      "lines": [
+        { "speaker": "npc", "text": "Merhaba, ben Nikolai. Bana Niko diyebilirsin." },
+        { "speaker": "npc", "text": "…'den geliyorum. …'e gitmek istiyorum ama fırtınada dışarıda kalmak istemedim." },
+        { "speaker": "npc", "text": "Beni içeri aldığın için teşekkürler." }
+      ]
+    }
+  ],
+  "fallback": {
+    "pool": ["generic_smalltalk_01", "generic_smalltalk_03"]
+  }
+}

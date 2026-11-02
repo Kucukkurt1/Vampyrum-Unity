@@ -1,0 +1,20 @@
+{
+  "karakter_id": 10,
+  "dosya": "erik_magnusson",
+  "tur": "insan",
+  "beats": [
+    {
+      "id": "intro_1",
+      "once": true,
+      "priority": 100,
+      "conditions": { "max_talk_count": 0 },
+      "lines": [
+        { "speaker": "npc", "text": "Selam, ben Erik. Bu da eşim Maria. …'dan geliyoruz." },
+        { "speaker": "npc", "text": "Bizi ağırladığın için çok teşekkür ederiz. Şimdi izninle biraz dinlenmek istiyoruz." }
+      ]
+    }
+  ],
+  "fallback": {
+    "pool": ["generic_smalltalk_02", "generic_smalltalk_03"]
+  }
+}

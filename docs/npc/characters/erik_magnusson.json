@@ -1,0 +1,18 @@
+{
+  "id": 10,
+  "ad": "Erik",
+  "soyad": "Magnusson",
+  "yas": 0,
+  "cinsiyet": "Erkek",
+  "koken": "Kuzey",
+  "meslek": "Oduncu",
+  "aciklama": "Kuzeyden gelen sarışın, beyaz tenli bir oduncu. Eşi Maria ile ülkelerindeki savaştan kaçıyor.",
+  "tasarim_notu": "Gidecekleri şehir boş. Eşiyle aynı kalış. Tanışma cümlesi Maria ile aynı, ayrıştırmak iyi olur.",
+  "model_id": 0,
+  "rol": "misafir",
+  "vampir_atama": "rastgele",
+  "kalis_gunu": { "min": 5, "max": 5 },
+  "ucret_gunluk": { "min": 2, "max": 4 },
+  "maliyet_gunluk": { "min": 1, "max": 3 },
+  "aktif": false
+}

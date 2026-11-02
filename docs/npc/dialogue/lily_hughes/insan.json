@@ -1,0 +1,19 @@
+{
+  "karakter_id": 14,
+  "dosya": "lily_hughes",
+  "tur": "insan",
+  "beats": [
+    {
+      "id": "intro_1",
+      "once": true,
+      "priority": 100,
+      "conditions": { "max_talk_count": 0 },
+      "lines": [
+        { "speaker": "npc", "text": "Ben Lily. Eşim ve beni kabul ettiğiniz için minnettarız." }
+      ]
+    }
+  ],
+  "fallback": {
+    "pool": ["generic_smalltalk_02"]
+  }
+}

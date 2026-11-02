@@ -1,0 +1,18 @@
+{
+  "id": 13,
+  "ad": "Craig",
+  "soyad": "Hughes",
+  "yas": 0,
+  "cinsiyet": "Erkek",
+  "koken": "",
+  "meslek": "Madenci",
+  "aciklama": "Orta yaşlı bir madenci. Kuzeydeki ocaktan kovulmuş. Eşi Lily ile yeni bir ocakta iş arıyor.",
+  "tasarim_notu": "Geldiği yer, ayrıldığı şehir ve gideceği ocak boş. Eşiyle aynı kalış.",
+  "model_id": 0,
+  "rol": "misafir",
+  "vampir_atama": "rastgele",
+  "kalis_gunu": { "min": 5, "max": 5 },
+  "ucret_gunluk": { "min": 1, "max": 3 },
+  "maliyet_gunluk": { "min": 1, "max": 2 },
+  "aktif": false
+}

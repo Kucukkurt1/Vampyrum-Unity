@@ -1,0 +1,18 @@
+{
+  "id": 2,
+  "ad": "Nikolai",
+  "soyad": "Vasilev",
+  "yas": 41,
+  "cinsiyet": "Erkek",
+  "koken": "Doğu sınırları",
+  "meslek": "Varlıklı yolcu",
+  "aciklama": "Fırtınadan içeri sığınan bir yolcu. Konaklama için yüksek ücret ödüyor. Kendine Niko denmesini istiyor.",
+  "tasarim_notu": "Vampir olduğu kesin. Her oyunda vampir. Çok para teklif ediyor. Eski köken notu: Doğu sınırları.",
+  "model_id": 0,
+  "rol": "misafir",
+  "vampir_atama": "her_zaman",
+  "kalis_gunu": { "min": 4, "max": 7 },
+  "ucret_gunluk": { "min": 8, "max": 12 },
+  "maliyet_gunluk": { "min": 2, "max": 3 },
+  "aktif": true
+}

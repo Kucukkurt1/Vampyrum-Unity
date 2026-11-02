@@ -1,0 +1,7 @@
+{
+  "id": "witness_lie_sleeping",
+  "template": "Uyuyordum. Kesinlikle uyuyordum. {victim_room} tarafinda hic ses duymadim.",
+  "slots": ["victim_room"],
+  "conditions": { "outcome": "Lie" },
+  "priority": 10
+}

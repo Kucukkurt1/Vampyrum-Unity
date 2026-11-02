@@ -1,0 +1,7 @@
+{
+  "id": "witness_lie_was_elsewhere",
+  "template": "O saatte yemekhanedeydim. {victim_name} ile ilgili bir sey gormedim.",
+  "slots": ["victim_name"],
+  "conditions": { "outcome": "Lie" },
+  "priority": 9
+}

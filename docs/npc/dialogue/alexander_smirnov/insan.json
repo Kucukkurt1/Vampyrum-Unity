@@ -1,0 +1,22 @@
+{
+  "karakter_id": 9,
+  "dosya": "alexander_smirnov",
+  "tur": "insan",
+  "beats": [
+    {
+      "id": "intro_1",
+      "once": true,
+      "priority": 100,
+      "conditions": { "max_talk_count": 0 },
+      "lines": [
+        { "speaker": "npc", "text": "Hey ahbap, bana bir şişe votka çöz! Bu arada ben Alexander. Sen bana kısaca Alex de." },
+        { "speaker": "npc", "text": "…'dan geliyorum. Günlerdir ormanlarda yatıp kalkıyorum. Gece olduğunda dışarısı çok korkutucudur." },
+        { "speaker": "npc", "text": "Dikkatli dinlersen vampirleri görebilirsin. Ama dua et, onlar seni görmesin." },
+        { "speaker": "npc", "text": "O lanet ormana bir daha dönmeyeceğim. Buradan hiç gitmeye niyetim yok." }
+      ]
+    }
+  ],
+  "fallback": {
+    "pool": ["generic_smalltalk_01"]
+  }
+}

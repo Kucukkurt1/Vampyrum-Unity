@@ -1,0 +1,21 @@
+{
+  "karakter_id": 7,
+  "dosya": "chris_collins",
+  "tur": "insan",
+  "beats": [
+    {
+      "id": "intro_1",
+      "once": true,
+      "priority": 100,
+      "conditions": { "max_talk_count": 0 },
+      "lines": [
+        { "speaker": "npc", "text": "Merhaba. Kervana kabul ettiğin için teşekkürler. Ben Chris Collins. …'liyim." },
+        { "speaker": "npc", "text": "…'da bir sanat gösterisine davetliyim. Ancak fırtına olacağını duydum." },
+        { "speaker": "npc", "text": "Neyse ki buraya denk geldim. Birkaç gün istirahat edip ayrılacağım." }
+      ]
+    }
+  ],
+  "fallback": {
+    "pool": ["generic_smalltalk_01", "generic_smalltalk_03"]
+  }
+}

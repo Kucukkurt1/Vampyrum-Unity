@@ -1,0 +1,18 @@
+{
+  "id": 18,
+  "ad": "Ludvig",
+  "soyad": "Björklund",
+  "yas": 25,
+  "cinsiyet": "Erkek",
+  "koken": "Kuzey",
+  "meslek": "Seyyah",
+  "aciklama": "Kuzeyden gelen genç bir seyyah. Kıtayı gezerek ilerliyor. Rüzgar nereye eserse oraya gider.",
+  "tasarim_notu": "Ülke adı boş. Yaklaşık 25 yaşında.",
+  "model_id": 0,
+  "rol": "misafir",
+  "vampir_atama": "rastgele",
+  "kalis_gunu": { "min": 2, "max": 4 },
+  "ucret_gunluk": { "min": 2, "max": 4 },
+  "maliyet_gunluk": { "min": 1, "max": 2 },
+  "aktif": false
+}

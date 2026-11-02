@@ -1,0 +1,21 @@
+{
+  "karakter_id": 15,
+  "dosya": "hugo_mercier",
+  "tur": "insan",
+  "beats": [
+    {
+      "id": "intro_1",
+      "once": true,
+      "priority": 100,
+      "conditions": { "max_talk_count": 0 },
+      "lines": [
+        { "speaker": "npc", "text": "Ben Hugo. …'den geliyoruz. Ablamla tanıştınız mı bayım?" },
+        { "speaker": "npc", "text": "Çok uzaklardan geldik. Ama galiba artık güvendeyiz." },
+        { "speaker": "npc", "text": "Bizi içeri aldığın için sağol." }
+      ]
+    }
+  ],
+  "fallback": {
+    "pool": ["generic_smalltalk_02", "generic_smalltalk_03"]
+  }
+}

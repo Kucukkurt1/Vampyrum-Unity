@@ -1,0 +1,7 @@
+{
+  "id": "witness_nothing",
+  "template": "Gecen gece derin uyudum. Hicbir sey duymadim.",
+  "slots": [],
+  "conditions": { "witness_type": "None", "outcome": "Truth" },
+  "priority": 1
+}

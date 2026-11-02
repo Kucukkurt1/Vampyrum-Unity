@@ -1,0 +1,21 @@
+{
+  "karakter_id": 8,
+  "dosya": "reymond_cliffville",
+  "tur": "insan",
+  "beats": [
+    {
+      "id": "intro_1",
+      "once": true,
+      "priority": 100,
+      "conditions": { "max_talk_count": 0 },
+      "lines": [
+        { "speaker": "npc", "text": "Öhhhgghh! Öhhhgghh! Ben Reymond Cliffville. …'lıyım. Bir askerim." },
+        { "speaker": "npc", "text": "Ülkeme dönmek için yola çıkmıştım ama hasta ve yaralıyım. Beni kabul ettiğin için teşekkür ederim." },
+        { "speaker": "npc", "text": "Şimdi izninle biraz dinleneceğim." }
+      ]
+    }
+  ],
+  "fallback": {
+    "pool": ["generic_smalltalk_03"]
+  }
+}

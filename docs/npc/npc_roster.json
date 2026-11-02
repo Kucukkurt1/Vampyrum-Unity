@@ -1,0 +1,21 @@
+{
+  "surum": 1,
+  "not": "Dosya adi = ad_soyad. Icerideki id benzersiz sayi. Sonraki bos id: 19. Yeni kadro (id 5-18) aktif:false, kapıya dusmez. Ulke adlari bos.",
+  "karakter_dosyalari": [
+    "characters/nikolai_vasilev.json",
+    "characters/anna_makelov.json",
+    "characters/mikhail_makelov.json",
+    "characters/chris_collins.json",
+    "characters/reymond_cliffville.json",
+    "characters/alexander_smirnov.json",
+    "characters/erik_magnusson.json",
+    "characters/maria_magnusson.json",
+    "characters/pietro_russo.json",
+    "characters/craig_hughes.json",
+    "characters/lily_hughes.json",
+    "characters/hugo_mercier.json",
+    "characters/amicia_mercier.json",
+    "characters/marko_horvath.json",
+    "characters/ludvig_björklund.json"
+  ]
+}

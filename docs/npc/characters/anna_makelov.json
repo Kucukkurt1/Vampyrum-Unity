@@ -1,0 +1,18 @@
+{
+  "id": 5,
+  "ad": "Anna",
+  "soyad": "Makelov",
+  "yas": 0,
+  "cinsiyet": "Kadin",
+  "koken": "",
+  "meslek": "Ev hanimi",
+  "aciklama": "Dışarıdan tatlı görünen yaşlı bir kadın. Eşi Mikhail Makelov ile geliyor. Ev hanımı.",
+  "tasarim_notu": "Eşi Mikhail. Tatlı teyze görünümü. Vampir ataması rastgele.",
+  "model_id": 0,
+  "rol": "misafir",
+  "vampir_atama": "rastgele",
+  "kalis_gunu": { "min": 5, "max": 5 },
+  "ucret_gunluk": { "min": 2, "max": 4 },
+  "maliyet_gunluk": { "min": 1, "max": 3 },
+  "aktif": false
+}

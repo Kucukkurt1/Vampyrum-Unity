@@ -1,0 +1,18 @@
+{
+  "id": 7,
+  "ad": "Chris",
+  "soyad": "Collins",
+  "yas": 0,
+  "cinsiyet": "Erkek",
+  "koken": "",
+  "meslek": "Varlıklı yolcu",
+  "aciklama": "Zengin bir adam. Değerli eşyalar taşır. Az konuşur, gereksiz samimiyeti sevmez.",
+  "tasarim_notu": "Kötü biri değil. Ülke adı ve sanat gösterisinin şehri boş.",
+  "model_id": 0,
+  "rol": "misafir",
+  "vampir_atama": "rastgele",
+  "kalis_gunu": { "min": 3, "max": 5 },
+  "ucret_gunluk": { "min": 6, "max": 10 },
+  "maliyet_gunluk": { "min": 2, "max": 3 },
+  "aktif": false
+}

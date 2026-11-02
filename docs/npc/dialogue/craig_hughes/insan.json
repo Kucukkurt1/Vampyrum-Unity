@@ -1,0 +1,21 @@
+{
+  "karakter_id": 13,
+  "dosya": "craig_hughes",
+  "tur": "insan",
+  "beats": [
+    {
+      "id": "intro_1",
+      "once": true,
+      "priority": 100,
+      "conditions": { "max_talk_count": 0 },
+      "lines": [
+        { "speaker": "npc", "text": "Ben Craig. …'den geliyorum. O lanet olası maden sahipleri beni işten attı. …'dan ayrılmak zorunda kaldım." },
+        { "speaker": "npc", "text": "…'de maden ocakları olduğunu duydum. Oraya gitmek için yola çıktım." },
+        { "speaker": "npc", "text": "Ama yakında bir fırtına olacakmış. Sanırım buraya sığındığımız iyi oldu. Eşim ve beni kabul ettiğin için minnettarız." }
+      ]
+    }
+  ],
+  "fallback": {
+    "pool": ["generic_smalltalk_03"]
+  }
+}

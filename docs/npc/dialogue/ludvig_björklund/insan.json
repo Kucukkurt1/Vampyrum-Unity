@@ -1,0 +1,21 @@
+{
+  "karakter_id": 18,
+  "dosya": "ludvig_björklund",
+  "tur": "insan",
+  "beats": [
+    {
+      "id": "intro_1",
+      "once": true,
+      "priority": 100,
+      "conditions": { "max_talk_count": 0 },
+      "lines": [
+        { "speaker": "npc", "text": "Merhaba, ben Ludvig. …'den gelen özgür ruhlu bir adamım." },
+        { "speaker": "npc", "text": "Yola çıkarım ve rüzgar beni nereye götürürse oraya giderim. Bugün rüzgar beni buraya getirdi." },
+        { "speaker": "npc", "text": "Birkaç gün konaklamama izin verdiğin için sağ ol." }
+      ]
+    }
+  ],
+  "fallback": {
+    "pool": ["generic_smalltalk_01", "generic_smalltalk_03"]
+  }
+}

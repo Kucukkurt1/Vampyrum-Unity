@@ -1,0 +1,21 @@
+{
+  "karakter_id": 5,
+  "dosya": "anna_makelov",
+  "tur": "insan",
+  "beats": [
+    {
+      "id": "intro_1",
+      "once": true,
+      "priority": 100,
+      "conditions": { "max_talk_count": 0 },
+      "lines": [
+        { "speaker": "npc", "text": "Merhaba evladım. Bizi kervanına kabul ettiğin için çok minnettarız." },
+        { "speaker": "npc", "text": "Bizi almasaydın sanırım fırtınaya yakalanacaktık. Düşünmesi bile çok ürkütücü." },
+        { "speaker": "npc", "text": "Ha bu arada, Mikhail ile tanıştın mı? Kaba göründüğüne bakma, aslında çok iyi biridir." }
+      ]
+    }
+  ],
+  "fallback": {
+    "pool": ["generic_smalltalk_01", "generic_smalltalk_02"]
+  }
+}

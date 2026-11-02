@@ -1,0 +1,7 @@
+{
+  "id": "witness_heard_only",
+  "template": "Gecen gece {victim_room} tarafindan garip sesler duydum ama kimseyi gormedim.",
+  "slots": ["victim_room"],
+  "conditions": { "witness_type": "HeardNoise", "outcome": "Truth" },
+  "priority": 8
+}

@@ -1,0 +1,7 @@
+{
+  "id": "witness_misremember",
+  "template": "Emin degilim ama {victim_room} civarinda bir ses vardi. {subject_name} gibi biri gecti sanirim.",
+  "slots": ["victim_room", "subject_name"],
+  "conditions": { "outcome": "Distorted" },
+  "priority": 10
+}

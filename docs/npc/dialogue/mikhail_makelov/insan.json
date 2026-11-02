@@ -1,0 +1,19 @@
+{
+  "karakter_id": 6,
+  "dosya": "mikhail_makelov",
+  "tur": "insan",
+  "beats": [
+    {
+      "id": "intro_1",
+      "once": true,
+      "priority": 100,
+      "conditions": { "max_talk_count": 0 },
+      "lines": [
+        { "speaker": "npc", "text": "Ne var ??" }
+      ]
+    }
+  ],
+  "fallback": {
+    "pool": ["generic_smalltalk_03"]
+  }
+}

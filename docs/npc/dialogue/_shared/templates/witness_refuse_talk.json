@@ -1,0 +1,7 @@
+{
+  "id": "witness_refuse_talk",
+  "template": "Bu konuyu simdi konusmak istemiyorum. Yorgunum, biraz yalniz kalmak istiyorum.",
+  "slots": [],
+  "conditions": { "outcome": "Refused" },
+  "priority": 20
+}

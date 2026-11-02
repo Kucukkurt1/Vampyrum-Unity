@@ -1,0 +1,21 @@
+{
+  "karakter_id": 17,
+  "dosya": "marko_horvath",
+  "tur": "insan",
+  "beats": [
+    {
+      "id": "intro_1",
+      "once": true,
+      "priority": 100,
+      "conditions": { "max_talk_count": 0 },
+      "lines": [
+        { "speaker": "npc", "text": "Merhaba, ben Marko Horvath. …'den geliyorum. Doktorum." },
+        { "speaker": "npc", "text": "…'deki konferansa gitmek için yola çıktım. Bazıları fırtına çıkacağını söyledi." },
+        { "speaker": "npc", "text": "Bu yüzden konaklayacak bir yer arıyordum. Beni içeri aldığın için minnettarım." }
+      ]
+    }
+  ],
+  "fallback": {
+    "pool": ["generic_smalltalk_01", "generic_smalltalk_03"]
+  }
+}

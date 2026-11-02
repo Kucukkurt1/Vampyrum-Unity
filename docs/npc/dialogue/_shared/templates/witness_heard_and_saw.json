@@ -1,0 +1,7 @@
+{
+  "id": "witness_heard_and_saw",
+  "template": "{victim_room} numarali odadan ses duydum. Bir sure sonra {subject_name} oradan cikti.",
+  "slots": ["victim_room", "subject_name"],
+  "conditions": { "witness_type": "SawPersonLeave", "outcome": "Truth" },
+  "priority": 10
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8,
+  "ad": "Reymond",
+  "soyad": "Cliffville",
+  "yas": 0,
+  "cinsiyet": "Erkek",
+  "koken": "",
+  "meslek": "Asker",
+  "aciklama": "Yorgun ve bitkin bir savaşçı. Hasta ve yaralı. Ülkesine dönmeye çalışırken kervana sığındı.",
+  "tasarim_notu": "Az konuşur. Ülke adı boş.",
+  "model_id": 0,
+  "rol": "misafir",
+  "vampir_atama": "rastgele",
+  "kalis_gunu": { "min": 4, "max": 7 },
+  "ucret_gunluk": { "min": 2, "max": 4 },
+  "maliyet_gunluk": { "min": 2, "max": 3 },
+  "aktif": false
+}
